@@ -1,0 +1,62 @@
+code .
+2 ways using .html and.htm
+recommended .html
+
+live server?benifits
+how to run
+
+major sections of html
+1.head section
+2.body section
+
+Infosys springboard
+IBM softskills
+tcsion
+
+documentation-
+headings-text formatting tag
+paragraph
+lists
+form
+multimedia
+
+text formatting tag?
+purpose of heading?
+which heading are more important and least important?
+is h7 avail in html??
+
+h1-has more importance
+bigger and bolder
+
+h2-more imp than h3 and bigger than h3 and bolder
+h3-more im than h4 and bigger than h4 and bolder
+h4-more important than h5 bigger and bolder than h5
+h5-more important than h6 bigger than h6 and bolder
+h6-least important smaller +least bolder
+which tag is used for paragraph
+<p>
+<article>-more precise than paragraph
+both are paired tag and sematic
+<b> bold non sematic + paired-(before html 5)
+<strong>sematic +paired-(in html tag)
+
+
+Attribures of a lists
+It is reversed and in specific order
+
+Table creation
+Row, Coloumn, Title
+Difference between tr and td
+
+Checkbox, dropbox, Radio button
+
+Selectors
+Types of Selectors in css
+simple Selectors
+combinator Selectors
+pseudo class Selectors
+pseudo element Selectors
+
+
+
+Create object, read values

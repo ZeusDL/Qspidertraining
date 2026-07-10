@@ -1,0 +1,25 @@
+Syntax for css
+.....................
+property name: value;
+design name: value; 
+how many ways cloud you add css in html?
+inline internal external 
+
+recomended:External is recommended
+Why recommended:Separation of concern ,keeping everything together in afile would be mess and confusion
+for neat and clean code keep things separately.
+
+what are selectors?
+how many Selectors are there in css?
+01 - simple selectors - id,class,tag name,universal
+02 - combinator selectors -  
+03 - psedo class selectors
+04 - psedo element selectors
+
+what is the difference between ./ and ../ ?
+
+sibling relationship
+Adjacent sibling and general siblings
+  
+
+

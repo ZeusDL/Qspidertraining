@@ -1,0 +1,33 @@
+/*tag selector */
+
+code{
+    background-color: rgb(235, 195, 135);
+    padding: 20px;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+
+}
+/*id selector*/
+#code01{
+     background-color: rgb(218, 135, 235);
+    padding: 20px;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+}
+#code02{
+     background-color: rgb(202, 132, 132);
+    padding: 20px;
+    font-size: 20px;
+    margin: auto;
+    display: block;
+}
+/*class selector*/
+.code-class{
+    background-color: rgb(173, 22, 161);
+    color:white;
+    padding:40px;
+    font-size: 30px;
+    display: block;
+}

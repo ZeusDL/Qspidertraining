@@ -1,0 +1,13 @@
+#btn-sign-up{
+    margin: auto;
+    padding: 10px;
+    border: 100px;
+    border-radius: 40px;
+    border-color: brown;
+    color: rgb(3, 29, 29);
+    background-color: aquamarine;
+}
+#btn-sign-up:hover{
+    background-color: rgb(101, 150, 133);
+    color: black;
+}
